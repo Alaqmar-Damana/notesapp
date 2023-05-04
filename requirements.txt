@@ -2,4 +2,4 @@ flask
 Flask-SQLAlchemy
 flask-login
 psycopg2
-waitress
+gunicorn
